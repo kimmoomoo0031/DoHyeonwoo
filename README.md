@@ -1,8 +1,10 @@
-<p align="center">
-A software engineer who values consistent learning<br>
+## 👨‍💻 About Me
+A software engineer who values consistent learning  
 and enjoys studying in cafés with good coffee ☕
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact" />
-</p>
+
+## 🛠️ Tech Stack
+![](https://skillicons.dev/icons?i=php,flutter,swift,python)
+
+## 🏆 Featured Projects (個人開発)
+- linky-project(制作中)
